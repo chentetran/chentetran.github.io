@@ -1,0 +1,113 @@
+body{
+	font-family: georgia,serif;	
+	text-shadow: 2px 2px #d3d3d3;
+}
+
+h1{
+	font-size: 40px;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+h2{
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+
+hr{
+	width: 400px;
+}
+
+#linksSeparator{
+	width: 825px;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+}
+
+
+#center {
+	margin-top: 5%;
+	text-align: center;
+}
+
+#photocenter{
+	text-align: center;
+}
+
+.textbox{
+	margin-right: 15%;
+	margin-left: 15%;
+	overflow: auto;
+	height: 630px;
+}
+
+.textbox2{
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+.jobtitle{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.crop img{
+	border-radius: 200px;
+	width:20%;
+	height:20%;
+}
+
+#nav{
+	margin-top: 5%;
+}
+
+#resume{
+	margin-left: 70px;
+}
+
+#bio{
+	margin-right: 70px;
+}
+
+#projects{
+	margin-left: 20px;
+	margin-right: 70px;
+}
+
+#contact{
+	margin-left: 20px;
+}
+
+.indent{
+	margin-left: 30px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	letter-spacing: 4px;
+	color: black;
+
+}
+
+a:visited{
+	color: inherit;
+}
+
+a:hover{
+	color: #e0e0eb;
+}
+
+.screen {
+	height: 100vh;
+}
+
+#poop {
+	background-color: green;
+}
