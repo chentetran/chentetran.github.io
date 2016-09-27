@@ -1,12 +1,17 @@
 body{
 	font-family: georgia,serif;	
+}
+
+.shadow{
 	text-shadow: 2px 2px #d3d3d3;
+
 }
 
 h1{
 	font-size: 40px;
 	letter-spacing: 10px;
 	text-align: center;
+	margin-top: 50px;
 }
 
 h2{
@@ -16,6 +21,11 @@ h2{
 
 hr{
 	width: 400px;
+}
+
+.text{
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 #linksSeparator{
@@ -28,7 +38,7 @@ img{
 }
 
 
-#center {
+.center {
 	margin-top: 5%;
 	text-align: center;
 }
