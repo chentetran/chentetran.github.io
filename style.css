@@ -48,9 +48,6 @@ img{
 }
 
 
-.center {
-	text-align: center;
-}
 
 .marginTop {
 	margin-top: 5%;
@@ -143,9 +140,6 @@ img{
 	width: 100%;
 }
 
-#rightAlign {
-	justify-content: left;
-}
 
 
 
@@ -167,4 +161,11 @@ a:hover{
 
 .subtitle {
 	font-size: 20px;
+}
+#rightAlign {
+	justify-content: left;
+}
+
+.center {
+	text-align: center;
 }
