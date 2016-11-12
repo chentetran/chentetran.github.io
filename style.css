@@ -12,6 +12,10 @@ body{
 	font-family: georgia,serif;	
 }
 
+p {
+	line-height: 1.6;
+}
+
 .shadow{
 	text-shadow: 2px 2px #d3d3d3;
 
@@ -169,3 +173,5 @@ a:hover{
 .center {
 	text-align: center;
 }
+
+
